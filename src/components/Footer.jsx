@@ -14,6 +14,7 @@ export const Footer = () => {
       >
         <ArrowUp size={20} />
       </a>
+      <h3>this is footer</h3>
     </footer>
   );
 };
