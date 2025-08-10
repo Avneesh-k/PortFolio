@@ -32,7 +32,7 @@ I’m focused on creating elegant solutions to complex problems, and I’m const
               </a>
 
               <a
-                href="https://1drv.ms/b/c/1841a6f951ae9df1/EU6WOBoJK9tAolkdNhsDWmsBK2exUJZuZBkyZ0kmD_zxrg?e=hR8a0a"
+                href="https://1drv.ms/b/c/1841a6f951ae9df1/EU6WOBoJK9tAolkdNhsDWmsBK2exUJZuZBkyZ0kmD_zxrg?e=hR8a0a" target="_blank"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV
