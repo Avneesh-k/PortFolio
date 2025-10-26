@@ -23,7 +23,7 @@ const projects = [
     title: "",
     description:
       "Blog App - A dynamic web application that allows users to read, create, and share blogs across various categories. Implemented features like user authentication, search functionality, and responsive design for an enhanced user experience. Built using React, Node.js, and MongoDB.",
-    image: "/projects/blog-app.png",
+    image: "/projects/blog-App.png",
     tags: ["MongoDB", "Express.js", "React.js","Node.js"],
     githubUrl: "https://github.com/Avneesh-k/Blog-App",
   },
